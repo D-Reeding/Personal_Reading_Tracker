@@ -7,7 +7,7 @@ A personal data analytics pipeline that transforms a raw reading app export into
 
 
 ![Dashboard Preview](preview.png)
-*(Add a screenshot of your dashboard to the `dashboard/` folder and it will appear here)*
+
 
 ---
 
